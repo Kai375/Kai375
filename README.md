@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my neck of the woods.
+# Welcome to my neck of the Git.
