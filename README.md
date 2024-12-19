@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Kai 👋
 
 <!--
 **Kai375/Kai375** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Welcome to my neck of the woods.
