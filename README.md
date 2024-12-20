@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 # Welcome to my neck of the Git.
 
 # ![](https://komarev.com/ghpvc/?username=Kai375&abbreviated=true)
+
+# ![GitHub Repo stars](https://img.shields.io/github/stars/Kai375?style=social)
