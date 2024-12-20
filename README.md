@@ -9,7 +9,7 @@
  
  </div>
  
-* Fill free to contact me if you have any questions
+* Feel free to contact me if you have any questions
 * How to reach me: 101y@protonmail.com
 
  
