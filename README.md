@@ -9,7 +9,7 @@
 
  </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai375&layout=donut&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai375&layout=donut&theme=github_dark&hide_border=true)
 
 
  
