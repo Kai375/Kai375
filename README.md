@@ -13,7 +13,8 @@
 
 
  
-* Feel free to contact me if you have any questions
+* Feel free to contact me if you have any questions.
+* My linkedln: www.linkedin.com/in/KaiToledano
 * How to reach me: 101y@protonmail.com
 
  
