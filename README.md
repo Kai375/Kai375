@@ -1,6 +1,6 @@
  <div align="center">
    
- # Hi there, my name is Kai Toledano. 
+ # Hello.
  ### Welcome to my neck of the Git.
    
  ![](https://komarev.com/ghpvc/?username=Kai375&abbreviated=true)
